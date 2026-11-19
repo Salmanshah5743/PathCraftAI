@@ -1,0 +1,6 @@
+{
+  "name": "PathCraft AI",
+  "description": "AI-powered 4-week personalized learning path builder and curriculum planner with structured roadmaps and multi-page PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
