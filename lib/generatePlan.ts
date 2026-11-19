@@ -167,8 +167,8 @@ Rules:
           responseSchema: STUDY_PLAN_SCHEMA,
           temperature: 0.4,
           maxOutputTokens: 1600,
-          httpOptions: {
-            timeout: 8500, // Fail fast before Netlify's 10s function limit
+          thinkingConfig: {
+            thinkingBudget: 0,
           },
         },
       });
